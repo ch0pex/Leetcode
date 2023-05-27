@@ -5,7 +5,7 @@
 /* First Solution: 
     - Runtime 529ms 
     - Memory 10.1MB 
-    - Complexity: O(n^2) 
+    - Complexity: O(n^2)
 */ 
 class Solution {
 public:
