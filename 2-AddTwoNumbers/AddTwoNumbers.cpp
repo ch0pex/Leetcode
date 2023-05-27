@@ -11,9 +11,9 @@ struct ListNode {
 
 
 /* First Solution:
-    - Runtime 45ms (Beats 31%)
-    - Memory: 71.4MB (Beats 71.4MB)
-    - Complexity: O(n)
+    - Runtime 45ms 
+    - Memory: 71.4MB 
+    - Complexity: O(max(n, m))
 */
 
 class Solution {

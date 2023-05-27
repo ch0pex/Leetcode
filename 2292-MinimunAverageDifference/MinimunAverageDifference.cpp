@@ -2,6 +2,13 @@
 #include <vector>
 #include <cmath> 
 
+/*Solution: 
+    - Runtime: 132ms
+    - Memory: 78MB
+    - Complexity: O(n)
+*/
+
+
 class Solution {
 public:
     int minimumAverageDifference(std::vector<int>& nums) {
