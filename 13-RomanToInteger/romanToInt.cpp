@@ -2,6 +2,12 @@
 #include <string> 
 #include <map>
 
+/* Solution: 
+    - Runtime 4ms (Beats 90%)
+    - Memory 8.1MB (Beats 40%)
+    - Complexity: O(n)
+*/
+
 class Solution {
 
 private: 
@@ -42,6 +48,4 @@ int main(){
     Solution* sol = new Solution();
     const size_t num = sol->romanToInt("MCMXCIV");
     std::cout << num; 
-
-    
 }
