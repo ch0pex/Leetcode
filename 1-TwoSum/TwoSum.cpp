@@ -5,7 +5,6 @@
 /* First Solution: 
     - Runtime 529ms 
     - Memory 10.1MB 
-    - Complexity: O(n^2)
 */ 
 class Solution {
 public:
@@ -35,7 +34,7 @@ public:
     - Runtime 13ms Beats: 70% 
     - Memory 11MB Beats: 25%
     - Complexity: O(n)    
-    */
+*/
 class Solution2 {
 public:
     std::vector<int> twoSum(std::vector<int>& nums, int target) 
